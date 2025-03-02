@@ -11,6 +11,10 @@
 
 ### Code and slides to accompany the online lesson by Data For Science.
 
+Information visualization, as David McCandless aptly puts it, is a form of "knowledge compression." Our highly evolved visual processing system enables us to efficiently handle vast amounts of information. Visualization's power lies in its ability to encode data intuitively, making complex data accessible. As data grows in volume and complexity, the importance of effective visualization increases. This video explores how the human visual cortex processes colors and shapes and how we can utilize these mechanisms for effective visualization using Pythons powerful visualization libraries.
+
+Starting with pandas and Matplotlib, two core Python libraries, we learn about the basics of Python data pre-processing and visualization before moving on to more advanced packages. Seaborn, built on top of Matplotlib, simplifies common tasks and enhances productivity. Interactive visualizations using Bokeh and Plotly are also explored. We’ll use Jupyter notebooks to craft our visualizations.
+
 ## Outline
 ### 1.Human Perception
 - Understanding Color Theory
