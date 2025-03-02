@@ -11,10 +11,6 @@
 
 ### Code and slides to accompany the online lesson by Data For Science.
 
-Large Language Models (LLMs) are powerful tools that put state-of-the-art AI capabilities at the tip of our fingers. They can process large amounts of data, understand nuance and context, and perform complex tasks at our request. Over the past few years, LLMs have multiplied as have the tools specially built to leverage their capabilities.
-
-In this course, you will learn how to use large language models to perform data science tasks such as summarization, translation, named entity recognition, audio generation, and data processing. We’ll explore the possibilities afforded by the tools and APIs developed by OpenAI, Hugging Face, LangChain, and Pandas AI and how best to apply them to our data science work.
-
 ## Outline
 ### 1.Human Perception
 - Understanding Color Theory
